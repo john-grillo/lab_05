@@ -151,7 +151,7 @@ function multiplyArray(testArray){ //eslint-disable-line
   //end of for loop
   }
 
-  msg = 'The numbers 2,3,4 have a product of ' + total;
+  msg = 'The numbers 2,3,4 have a product of ' + total + '.';
   console.log(msg);
   return [total, msg];
 //end of function
